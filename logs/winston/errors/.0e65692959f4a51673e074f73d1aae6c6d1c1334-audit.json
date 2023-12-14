@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\office worke\\management-core-service\\logs\\winston\\errors\\.0e65692959f4a51673e074f73d1aae6c6d1c1334-audit.json",
+    "files": [
+        {
+            "date": 1702542861988,
+            "name": "D:\\office worke\\management-core-service\\logs\\winston\\errors\\phu-2023-14-12-14-error.log",
+            "hash": "90b63859b4ebc3a9f5ee9e4c49a91e2990e0007eb7a473bba88f399b89369e58"
+        }
+    ],
+    "hashType": "sha256"
+}
